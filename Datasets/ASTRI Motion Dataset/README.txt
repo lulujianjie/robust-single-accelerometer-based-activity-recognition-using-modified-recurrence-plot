@@ -1,1 +1,0 @@
-waitting for permit to release this dataset from ASTRI
