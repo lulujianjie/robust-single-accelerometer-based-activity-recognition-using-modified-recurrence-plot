@@ -4,8 +4,8 @@ Paper link: TBD
 ### Table of Contents
 0. [Introduction](#introduction)
 0. [Datasets](#datasets)
-0. [Modified RP](#modifiedRP)
-0. [Tiny ResNet](#tinyResNet)
+0. [Modified RP](#modifiedrp)
+0. [Tiny ResNet](#tinyresnet)
 0. [Results](#results)
 
 ### Update (August 14)
