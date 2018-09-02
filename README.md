@@ -29,4 +29,5 @@ You can also encode your own accelerometer signals or time series data as images
 	
 ### Tiny ResNet
 You can train our model use [python](https://github.com/lulujianjie/HAR_Using_ModifiedRP/blob/master/Model/ResNet.py) or [jupyter notebook](https://github.com/lulujianjie/HAR_Using_ModifiedRP/blob/master/Model/ResNet.ipynb)
+
 You can also use our pretrained model on ASTRI DATASET [link1]() and ADL DATASET [link2]() 
