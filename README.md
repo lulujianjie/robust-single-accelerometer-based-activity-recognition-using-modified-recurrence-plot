@@ -2,11 +2,11 @@
 
 Paper link: TBD
 ### Table of Contents
-0. [Introduction](#Introduction)
+0. [Introduction](#introduction)
 0. [Datasets](#datasets)
-0. [Modified RP](#ModifiedRP)
-0. [Tiny ResNet](#TinyResNet)
-0. [Results](#Results)
+0. [Modified RP](#modifiedRP)
+0. [Tiny ResNet](#tinyResNet)
+0. [Results](#results)
 
 ### Update (August 14)
 We compared a new baseline LSTM-FCN, whose accuarcy is slightly lower than our method. We redesigned a tiny classification model and now it can predict very fast (100 5s-block samples for 6s+ on GPU). As always, we welcome any questions, suggestions, requests or bug-reports. 
