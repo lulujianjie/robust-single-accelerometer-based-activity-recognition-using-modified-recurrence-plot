@@ -1,12 +1,11 @@
 # Encoding Accelerometer Signals as Images for Activity Recognition Using Modified Recurrence Plot
 
-Paper link: TBD
+Paper link: under review
 ### Table of Contents
 0. [Introduction](#introduction)
 0. [Datasets](#datasets)
 0. [Modified RP](#modifiedrp)
 0. [Tiny ResNet](#tinyresnet)
-0. [Results](#results)
 
 ### Update (August 14)
 We compared a new baseline LSTM-FCN, whose accuarcy is slightly lower than our method. We redesigned a tiny classification model and now it can predict very fast (100 5s-block samples for 6s+ on GPU). As always, we welcome any questions, suggestions, requests or bug-reports. 
@@ -36,5 +35,3 @@ You can also use our pretrained model on ASTRI DATASET [link1](https://github.co
 
 The structure is shown as follows
 ![RP](Figures/ResNet.png)
-### Results
-![RP](Figures/Results.png)
