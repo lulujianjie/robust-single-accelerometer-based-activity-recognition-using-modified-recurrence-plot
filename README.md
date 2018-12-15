@@ -7,7 +7,7 @@ Paper link: under review
 0. [Modified RP](#modifiedrp)
 0. [Tiny ResNet](#tinyresnet)
 
-### Update (August 14)
+### Update (Dec 14)
 We compared a new baseline LSTM-FCN, whose accuarcy is slightly lower than our method. We redesigned a tiny classification model and now it can predict very fast (100 5s-block samples for 6s+ on GPU). As always, we welcome any questions, suggestions, requests or bug-reports. 
 
 ### Introduction
