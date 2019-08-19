@@ -1,6 +1,18 @@
-# Encoding Accelerometer Signals as Images for Activity Recognition Using Modified Recurrence Plot
+# Robust Single Accelerometer-Based Activity Recognition Using Modified Recurrence Plot
 
-Paper link: under review
+Paper: "Robust Single Accelerometer-Based Activity Recognition Using Modified Recurrence Plot"[[pdf]](https://ieeexplore.ieee.org/document/8691521)
+
+An effective and efficient framework is proposed to address the recognition problem without any heavy preprocessing. Specifically, we encode 3-axis signals as 3-channel images using a modified recurrence plot (RP) and train a tiny residual neural network to do image classification. If you find this project useful, please cite the offical paper.
+
+```
+@article{lu2019robust,
+  title={Robust Single Accelerometer-based Activity Recognition Using Modified Recurrence Plot},
+  author={Lu, Jianjie and Tong, Kai-yu},
+  journal={IEEE Sensors Journal},
+  year={2019},
+  publisher={IEEE}
+}
+```
 ### Table of Contents
 0. [Introduction](#introduction)
 0. [Datasets](#datasets)
@@ -8,7 +20,7 @@ Paper link: under review
 0. [Tiny ResNet](#tinyresnet)
 
 ### Update (Dec 14)
-We compared a new baseline LSTM-FCN, whose accuarcy is slightly lower than our method. We redesigned a tiny classification model and now it can predict very fast (100 5s-block samples for 6s+ on GPU). As always, we welcome any questions, suggestions, requests or bug-reports. 
+We redesigned a tiny classification model and now it can predict very fast (100x5s samples for 6.8s+ on GPU). As always, we welcome any questions, suggestions or bug-reports. 
 
 ### Introduction
 
