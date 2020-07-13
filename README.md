@@ -13,6 +13,9 @@ An effective and efficient framework is proposed to address the recognition prob
   publisher={IEEE}
 }
 ```
+
+**用我的滴滴云AI大师码0003在滴滴云上购买GPU/vGPU/机器学习产品可享受9折优惠，[点击](https://www.didiyun.com)前往滴滴云官网**
+
 ### Table of Contents
 0. [Introduction](#introduction)
 0. [Datasets](#datasets)
